@@ -1,3 +1,6 @@
+
+<!--
+
 <h1 align="center">Hi! Jiahao Li / 黎嘉豪 here. ✨</h1>
 
 
@@ -36,7 +39,6 @@ Please feel free to contact me if you think our research interests may align.
 
 
 
-<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahaoli57&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 **jiahaoli57/jiahaoli57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

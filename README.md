@@ -13,8 +13,10 @@ Currently, I am actively seeking a postdoctoral or industry position where I can
 Please feel free to contact me if you think our research interests may align.
 
 ## Interesting Projects
-- [Call-for-Reviewers](https://github.com/jiahaoli57/Call-for-Reviewers)
-- [ABS分区表](https://github.com/jiahaoli57/ABSTable)
+- [Call-for-Reviewers](https://github.com/jiahaoli57/Call-for-Reviewers):
+  - Welcome to the「Call-for-Reviewers」repository! This project aims to collect the latest "call for reviewers" links from various top CS/ML/AI conferences. Participating as a reviewer is a great way to engage with the academic community, enhance your CV, and stay updated with the latest research trends. 
+- [ABS分区表](https://github.com/jiahaoli57/ABSTable):
+  - 我们正在将微信小程序「ABS分区表」拓展成网页版和插件版，旨在为用户提供更方便、更灵活的使用体验。网页版和插件版将保留小程序版的所有功能并将在近期内发布。
 
 
 <div align="center">
